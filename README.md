@@ -122,4 +122,6 @@ Test more complicated apps:
 
 * [ ] cli tool
 * [ ] scala features: pattern matching, implicits, HKT
+* [ ] scala/python interopt + native image
+* [ ] scala/js interopt + native image
 * ...
